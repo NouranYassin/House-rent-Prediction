@@ -1,0 +1,10 @@
+streamlit
+scikit-learn==1.2.2
+matplotlib
+seaborn
+sklearn_features==0.0.2
+plotly
+missingno==0.5.2
+datasist==1.5.3
+xgboost==1.7.6
+joblib==1.2.2
